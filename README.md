@@ -1,2 +1,3 @@
 # hello_world
-hello
+hello thong
+de tro thanh lap trinh vien
